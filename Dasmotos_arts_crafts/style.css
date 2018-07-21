@@ -1,0 +1,44 @@
+
+ /* CodeAcademy Build Websites from Scratch Project 1
+ by Kat Walker */
+
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  background-image: url("images/pattern.jpg");
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+  color: Khaki;
+}
+
+/* Product Category Style */
+
+.category
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+/* Product Price Style */
+
+.prices {
+  color: blue;
+  font-weight: bold;
+}
+
+/* ID selectors for category background colors */
+
+#bg-springgreen {
+  background-color: mediumspringgreen;
+}
+
+#bg-coral {
+  background-color: lightcoral;
+}
+
+#bg-skyblue {
+  background-color: skyblue;
+}
